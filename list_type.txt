@@ -1,0 +1,11 @@
+0 sedan 
+1 suv
+2 van
+3 hatchback
+4 mpv 	
+5 pickup 
+6 bus 
+7 truck
+8 estate
+9 sportscar
+10 RV
